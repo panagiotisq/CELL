@@ -1,0 +1,17 @@
+# data & models (user-provided / trained; keep out of git)
+data/
+checkpoints/
+runs/
+logs/
+
+# compiled extensions (rebuild via setup.py)
+*.so
+*.o
+build/
+dist/
+*.egg-info/
+
+# python caches
+__pycache__/
+*.pyc
+*.pyo
