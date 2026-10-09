@@ -155,7 +155,7 @@ and the shipped test perturbations needed to reproduce the results.
 ## Paper and thesis
 
 - **Paper:** *Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps.* [arXiv:2610.11967](https://arxiv.org/abs/2610.11967)
-- **Thesis:** diploma thesis, Department of Electrical and Computer Engineering, University of Patras.
+- **Thesis:** diploma thesis, Department of Electrical and Computer Engineering, University of Patras. Archived in the University of Patras Institutional Repository "Nemertes": [hdl.handle.net/10889/32879](https://hdl.handle.net/10889/32879)
 
 ## Author
 
