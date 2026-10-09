@@ -8,6 +8,11 @@ solving for the pose with PnP. It builds on [LEAR](https://arxiv.org/abs/2603.01
 **learned confidence for every correspondence**, supervised through the camera pose rather than through the
 correspondence's own flow error.
 
+## Demo
+
+- [CELL (ours) vs. LEAR — indoor flight localization](https://www.youtube.com/watch?v=AB1O2NaSUgo)
+- [Trajectory on a forest-driving sequence](https://www.youtube.com/watch?v=KvoStuKL47E)
+
 ## Why a pose-supervised confidence
 
 The natural way to learn how reliable a correspondence is — supervising it on its own flow error — is biased in this
