@@ -15,6 +15,7 @@ correspondence's own flow error.
 
 ## Demo
 
+- 🎥 **[Paper / supplementary video — method overview + results](https://www.youtube.com/watch?v=fhL90r17fpw)**
 - [CELL (ours) vs. LEAR — indoor flight localization](https://www.youtube.com/watch?v=AB1O2NaSUgo)
 - [Trajectory on a forest-driving sequence](https://www.youtube.com/watch?v=KvoStuKL47E)
 
