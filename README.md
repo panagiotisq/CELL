@@ -2,6 +2,8 @@
 
 **C**onfidence-weighted **E**vent camera **L**ocalization in **L**idar maps
 
+Official code implementation of the paper **[Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps](https://arxiv.org/abs/2610.11967)** (arXiv:2610.11967).
+
 CELL localizes an event camera inside a prior LiDAR map. It refines a coarse initial pose by predicting dense flow
 between a depth image rendered from the map and an event image, turning the flow into 2D–3D correspondences, and
 solving for the pose with PnP. It builds on [LEAR](https://arxiv.org/abs/2603.01839) (Chen et al., 2026) and adds a
